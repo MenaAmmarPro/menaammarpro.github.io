@@ -1,0 +1,36 @@
+/* menaammarpro.github.io — hub-only styles (site-wide look comes from theme.css) */
+
+.hub-hero .hero-description {
+  max-width: 720px;
+}
+
+.feature-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-main {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+.card-source {
+  align-self: flex-start;
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  transition: color 0.2s;
+}
+
+.card-source:hover {
+  color: var(--pink);
+}
+
+@media (max-width: 760px) {
+  .hub-hero .hero-description {
+    font-size: 0.98rem;
+  }
+}
