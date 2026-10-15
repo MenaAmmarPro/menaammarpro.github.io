@@ -21,6 +21,15 @@ and links out to each project.
 | [love-memory-jar](https://menaammarpro.github.io/love-memory-jar/) | Shake the jar to draw a memory |
 | [love-starmap](https://menaammarpro.github.io/love-starmap/) | A real sky map and wish stars |
 | [love-countdown](https://menaammarpro.github.io/love-countdown/) | How long we've been counting |
+| [love-timezone](https://menaammarpro.github.io/love-timezone/) | Same sky — two clocks, sunrise/sunset, the hours we're both awake |
+| [love-map](https://menaammarpro.github.io/love-map/) | The space between — a world map of the distance and the halfway point |
+| [love-levelup](https://menaammarpro.github.io/love-levelup/) | Our level — shared XP, daily quests, a streak and badges |
+| [love-nature](https://menaammarpro.github.io/love-nature/) | Our garden — plots to tend that bloom into verses |
+| [love-coupons](https://menaammarpro.github.io/love-coupons/) | Love coupons — a book of promises to redeem |
+| [love-mailbox](https://menaammarpro.github.io/love-mailbox/) | Letters for later — sealed until an open date |
+| [love-ping](https://menaammarpro.github.io/love-ping/) | Love ping — a button that hands you a sweet line |
+| [love-diary](https://menaammarpro.github.io/love-diary/) | Our diary — a dated note a day, with a timeline |
+| [love-mural](https://menaammarpro.github.io/love-mural/) | Our mural — a canvas we paint together |
 
 ## How it's built
 
