@@ -42,6 +42,7 @@ and links out to each project.
 | [love-weather](https://menaammarpro.github.io/love-weather/) | Same Sky — live weather for Karachi and Bucharest |
 | [love-adventure](https://menaammarpro.github.io/love-adventure/) | Adventure Machine — spin a quest for two |
 | [love-movies](https://menaammarpro.github.io/love-movies/) | Our Cinema — a movie night for two |
+| [love-phrases](https://menaammarpro.github.io/love-phrases/) | Love Phrases — little things to say |
 
 ## How it's built
 
