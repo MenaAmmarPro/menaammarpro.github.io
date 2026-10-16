@@ -37,6 +37,7 @@ and links out to each project.
 | [love-postcards](https://menaammarpro.github.io/love-postcards/) | Postcards — code-drawn scenes with a message |
 | [love-cal](https://menaammarpro.github.io/love-cal/) | Our Calculator — a white keypad for math, and counters for us |
 | [love-calendar](https://menaammarpro.github.io/love-calendar/) | Our Days — hearts, countdowns and milestones |
+| [love-chat](https://menaammarpro.github.io/love-chat/) | Just Us — a private chat for two |
 
 ## How it's built
 
