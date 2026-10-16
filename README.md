@@ -44,6 +44,7 @@ and links out to each project.
 | [love-movies](https://menaammarpro.github.io/love-movies/) | Our Cinema — a movie night for two |
 | [love-phrases](https://menaammarpro.github.io/love-phrases/) | Love Phrases — little things to say |
 | [love-poem](https://menaammarpro.github.io/love-poem/) | Our Anthology — little poems for Mena |
+| [love-mood](https://menaammarpro.github.io/love-mood/) | How Are You, Really? — a daily mood check-in |
 
 ## How it's built
 

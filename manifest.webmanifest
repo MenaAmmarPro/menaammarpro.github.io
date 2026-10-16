@@ -1,7 +1,7 @@
 {
   "name": "For Himena — a little universe",
   "short_name": "For Himena",
-  "description": "Thirty-one small handmade websites, made with love for Himena.",
+  "description": "Thirty-two small handmade websites, made with love for Himena.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
