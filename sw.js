@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE = "for-himena-hub-v7";
+const CACHE = "for-himena-hub-v8";
 
 const ASSETS = [
   "./",
