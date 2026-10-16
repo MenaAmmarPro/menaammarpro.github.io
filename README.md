@@ -30,6 +30,11 @@ and links out to each project.
 | [love-ping](https://menaammarpro.github.io/love-ping/) | Love ping — a button that hands you a sweet line |
 | [love-diary](https://menaammarpro.github.io/love-diary/) | Our diary — a dated note a day, with a timeline |
 | [love-mural](https://menaammarpro.github.io/love-mural/) | Our mural — a canvas we paint together |
+| [love-recipebook](https://menaammarpro.github.io/love-recipebook/) | Recipe book — pizza first, as it should be |
+| [love-constellation](https://menaammarpro.github.io/love-constellation/) | Our constellation — place stars, join them, keep a memory |
+| [love-bucketlist](https://menaammarpro.github.io/love-bucketlist/) | Our list — the things we'll do together |
+| [love-compliments](https://menaammarpro.github.io/love-compliments/) | Compliment jar — reach in and pull one out |
+| [love-postcards](https://menaammarpro.github.io/love-postcards/) | Postcards — code-drawn scenes with a message |
 
 ## How it's built
 
