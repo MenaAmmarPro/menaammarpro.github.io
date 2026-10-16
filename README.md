@@ -38,6 +38,7 @@ and links out to each project.
 | [love-cal](https://menaammarpro.github.io/love-cal/) | Our Calculator — a white keypad for math, and counters for us |
 | [love-calendar](https://menaammarpro.github.io/love-calendar/) | Our Days — hearts, countdowns and milestones |
 | [love-chat](https://menaammarpro.github.io/love-chat/) | Just Us — a private chat for two |
+| [love-hug](https://menaammarpro.github.io/love-hug/) | Hug Machine — squeeze it, hold it, send one |
 
 ## How it's built
 
