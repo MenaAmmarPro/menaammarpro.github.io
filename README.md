@@ -36,6 +36,7 @@ and links out to each project.
 | [love-compliments](https://menaammarpro.github.io/love-compliments/) | Compliment jar — reach in and pull one out |
 | [love-postcards](https://menaammarpro.github.io/love-postcards/) | Postcards — code-drawn scenes with a message |
 | [love-cal](https://menaammarpro.github.io/love-cal/) | Our Calculator — a white keypad for math, and counters for us |
+| [love-calendar](https://menaammarpro.github.io/love-calendar/) | Our Days — hearts, countdowns and milestones |
 
 ## How it's built
 
