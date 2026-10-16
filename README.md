@@ -43,6 +43,7 @@ and links out to each project.
 | [love-adventure](https://menaammarpro.github.io/love-adventure/) | Adventure Machine — spin a quest for two |
 | [love-movies](https://menaammarpro.github.io/love-movies/) | Our Cinema — a movie night for two |
 | [love-phrases](https://menaammarpro.github.io/love-phrases/) | Love Phrases — little things to say |
+| [love-poem](https://menaammarpro.github.io/love-poem/) | Our Anthology — little poems for Mena |
 
 ## How it's built
 
