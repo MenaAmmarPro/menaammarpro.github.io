@@ -41,6 +41,7 @@ and links out to each project.
 | [love-hug](https://menaammarpro.github.io/love-hug/) | Hug Machine — squeeze it, hold it, send one |
 | [love-weather](https://menaammarpro.github.io/love-weather/) | Same Sky — live weather for Karachi and Bucharest |
 | [love-adventure](https://menaammarpro.github.io/love-adventure/) | Adventure Machine — spin a quest for two |
+| [love-movies](https://menaammarpro.github.io/love-movies/) | Our Cinema — a movie night for two |
 
 ## How it's built
 
