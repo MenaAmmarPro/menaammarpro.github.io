@@ -40,6 +40,7 @@ and links out to each project.
 | [love-chat](https://menaammarpro.github.io/love-chat/) | Just Us — a private chat for two |
 | [love-hug](https://menaammarpro.github.io/love-hug/) | Hug Machine — squeeze it, hold it, send one |
 | [love-weather](https://menaammarpro.github.io/love-weather/) | Same Sky — live weather for Karachi and Bucharest |
+| [love-adventure](https://menaammarpro.github.io/love-adventure/) | Adventure Machine — spin a quest for two |
 
 ## How it's built
 
