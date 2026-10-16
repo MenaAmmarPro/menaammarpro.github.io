@@ -35,6 +35,7 @@ and links out to each project.
 | [love-bucketlist](https://menaammarpro.github.io/love-bucketlist/) | Our list — the things we'll do together |
 | [love-compliments](https://menaammarpro.github.io/love-compliments/) | Compliment jar — reach in and pull one out |
 | [love-postcards](https://menaammarpro.github.io/love-postcards/) | Postcards — code-drawn scenes with a message |
+| [love-cal](https://menaammarpro.github.io/love-cal/) | Our Calculator — a white keypad for math, and counters for us |
 
 ## How it's built
 
