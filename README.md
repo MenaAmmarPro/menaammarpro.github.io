@@ -45,6 +45,11 @@ and links out to each project.
 | [love-phrases](https://menaammarpro.github.io/love-phrases/) | Love Phrases — little things to say |
 | [love-poem](https://menaammarpro.github.io/love-poem/) | Our Anthology — little poems for Mena |
 | [love-mood](https://menaammarpro.github.io/love-mood/) | How Are You, Really? — a daily mood check-in |
+| [love-lullaby](https://menaammarpro.github.io/love-lullaby/) | Goodnight, Mena — tonight's moon, a lullaby line, a goodnight streak |
+| [love-bucket-of-songs](https://menaammarpro.github.io/love-bucket-of-songs/) | Our Song Bucket — songs we'll learn and sing together |
+| [love-star-jar](https://menaammarpro.github.io/love-star-jar/) | A Jar of Stars — drop in a wish, draw one out |
+| [love-cooking](https://menaammarpro.github.io/love-cooking/) | Our Kitchen — a cookbook of dishes to make together |
+| [love-language-exchange](https://menaammarpro.github.io/love-language-exchange/) | Two Tongues — an Urdu ↔ Romanian phrasebook with a quiz |
 
 ## How it's built
 
