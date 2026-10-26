@@ -1,6 +1,6 @@
 "use strict";
 
-const CACHE = "for-himena-hub-v19";
+const CACHE = "for-himena-hub-v20";
 
 const ASSETS = [
   "./",
@@ -10,12 +10,14 @@ const ASSETS = [
   "./js/theme-main.js",
   "./js/effects.js",
   "./js/app.js",
+  "./js/release-banner.js",
   "./manifest.webmanifest",
   "./assets/favicon.svg",
   "./assets/apple-touch-icon.png",
   "./assets/og-image.png",
   "./assets/icons/icon-192.png",
-  "./assets/icons/icon-512.png"
+  "./assets/icons/icon-512.png",
+  "./assets/icons/uniroid.png"
 ];
 
 self.addEventListener("install", (event) => {
