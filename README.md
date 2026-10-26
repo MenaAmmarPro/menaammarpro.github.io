@@ -13,7 +13,8 @@ and links out to each project.
 
 | Project | What it is |
 | --- | --- |
-| [loveformymena](https://menaammarpro.github.io/loveformymena/) | The main site — letter, story, memories, reasons, quiz and more |
+| [Uniroid (app)](https://github.com/MenaAmmarPro/uniroid) | **Our Android app** - daily tools, offline games and our story. [Install the APK](https://github.com/MenaAmmarPro/uniroid/releases/latest/download/app-release.apk) |
+| [loveformymena](https://menaammarpro.github.io/loveformymena/) | The main site - letter, story, memories, reasons, quiz and more |
 | [love-art](https://menaammarpro.github.io/love-art/) | One hundred artworks, drawn by code |
 | [love-arcade](https://menaammarpro.github.io/love-arcade/) | Ten little games with a best-score tracker |
 | [love-reasons](https://menaammarpro.github.io/love-reasons/) | A reason a day, with a shareable card |
